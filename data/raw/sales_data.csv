@@ -1,0 +1,12 @@
+order_id,date,customer,product,region,quantity,price
+1,2024-01-01,John,Protein Powder,Chennai,2,2000
+2,2024-01-02,Ravi,Dumbbell,Mumbai,1,1500
+3,2024-01-03,John,Protein Powder,Chennai,,2000
+4,2024/01/04,Amit,Treadmill,Delhi,1,30000
+5,2024-01-05,Ravi,Dumbbell,Mumbai,1,1500
+5,2024-01-05,Ravi,Dumbbell,Mumbai,1,1500
+6,2024-01-06,,Yoga Mat,Bangalore,2,800
+7,invalid_date,Sam,Skipping Rope,Chennai,3,300
+8,2024-01-08,Anil,,Hyderabad,2,1200
+9,2024-01-09,John,Protein Powder,,2,2000
+10,2024-01-10,Ravi,Dumbbell,Mumbai,-1,1500

@@ -1,0 +1,8 @@
+order_id,date,customer,product,region,quantity,price
+1,2024-01-01,John,Protein Powder,Chennai,2.0,2000
+2,2024-01-02,Ravi,Dumbbell,Mumbai,1.0,1500
+3,2024-01-03,John,Protein Powder,Chennai,1.0,2000
+5,2024-01-05,Ravi,Dumbbell,Mumbai,1.0,1500
+6,2024-01-06,Unknown,Yoga Mat,Bangalore,2.0,800
+8,2024-01-08,Anil,Unknown,Hyderabad,2.0,1200
+9,2024-01-09,John,Protein Powder,Unknown,2.0,2000
